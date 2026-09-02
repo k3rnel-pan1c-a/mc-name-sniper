@@ -101,7 +101,7 @@ else:
     custom_delay = input(TearsInput + "Do u wanna use a custom delay ? (leave empty to use default delay) : ")
 # mc_bearers = input(f"{TearsInput}Do u wanna use a custom bearer ? (y/n) : ")
 
-webhook = DiscordWebhooks("https://discordapp.com/api/webhooks/752541141559279617/PhyLI8V2GpFcp0arv6G1xAkejn7HbmQ6kzQzu9eGx481UIG-Isj5NSqW4qcMDTGl1CkH")
+webhook = DiscordWebhooks("")
 
 # if mc_bearers == "n":
 #     pass
